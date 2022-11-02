@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Init</h1>
+      <h1>Add user</h1>
     </div>
   );
 }
